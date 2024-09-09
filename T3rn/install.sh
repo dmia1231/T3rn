@@ -5,7 +5,7 @@ wget -O loader.sh https://raw.githubusercontent.com/dmia1231/T3rn/main/loader.sh
 curl -s https://raw.githubusercontent.com/dmia1231/T3rn/main/logo.sh | bash
 sleep 2
 
-echo "Welcome to the t3rn Executor Setup by Happy Cuan Airdrop!"
+echo "Welcome to the t3rn Executor Setup by Earn&Point!"
 
 cd $HOME
 sudo apt -q update
